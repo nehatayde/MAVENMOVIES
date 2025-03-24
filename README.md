@@ -58,7 +58,7 @@ Retrieve customer first name, last name, and email ID.
 ![Customer Info](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/EMAIL_ID_LIST.png)
 
 ### 2. Count of Movies with Rental Rate of $0.99
-![Cheapest Rental](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/CHEAPEST_RENTAL.png)
+![Cheapest Rental](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/CHEAPEST_RENTALS.png)
 
 ### 3. Rental Rate Distribution and Movie Count
 ![Total Movies per Rental Rate](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TOTAL_NO_OF_MOVIES.png)
