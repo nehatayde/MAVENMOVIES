@@ -85,7 +85,7 @@ Retrieve customer first name, last name, and email ID.
 ![Highest Revenue Store](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_REVENUE.png)
 
 ### 11. Monthly Rentals Count
-![Rentals Per Month](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/RENTALS_PER_MONTH.png)
+![Rentals Per Month](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/RENTALS_PER_MONTH.png)
 
 ### 12. Customers Eligible for Rewards
 ![Reward Eligible Customers](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REWARD_VIA_PHONE.png)
