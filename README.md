@@ -91,7 +91,7 @@ Retrieve customer first name, last name, and email ID.
 ![Reward Eligible Customers](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/REWARD_VIA_PHONE.png)
 
 ### 13. Payments from First 100 Customers
-![First 100 Customer Payments](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FIRST_100_CUSTOMER_PAYMENTS.png)
+![First 100 Customer Payments](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/PAYMENT_DETAILS_FIRST_100.png)
 
 ### 14. Payments Over $5 Since Jan 1, 2006
 ![Payments Over $5](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/JAN_06_2006.png)
