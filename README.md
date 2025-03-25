@@ -100,7 +100,7 @@ Retrieve customer first name, last name, and email ID.
 ![Payments Over $5](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/OLD_CUSTOMER_OVER_5%24.png)
 
 ### 16. Films with 'Behind the Scenes' Special Feature
-![Behind the Scenes Films](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/BTS.png)
+![Behind the Scenes Films](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/FILMS_WITH_SPECIAL_FEATURES.png)
 
 ### 17. Unique Movie Ratings and Count
 ![Unique Ratings](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNI_MOVIES_RATINGS_%26_NO_OF_MOVIES.png)
