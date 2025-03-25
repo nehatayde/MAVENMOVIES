@@ -115,7 +115,7 @@ Retrieve customer first name, last name, and email ID.
 ![Replacement Cost Analysis](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/RENTAL_VS_REPLACEMENT.png)
 
 ### 21. Customers with Less Than 15 Rentals
-![Low Rental Customers](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/less_15.png)
+![Low Rental Customers](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/NON_LOYAL_CUSTOMERS.png)
 
 ### 22. Longest Films Sorted by Length and Rental Rate
 ![Longest Films](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/longestfilms_sort.png)
