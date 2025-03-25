@@ -133,7 +133,7 @@ Retrieve customer first name, last name, and email ID.
 ![Actor Movie Count](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/ACTORS_NUMBER_OF_FILMS.png)
 
 ### 27. Number of Actors per Film
-![Actors per Title](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/ACTOR_ASSOCIATED_WITH_TITLE.png)
+![Actors per Title](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/INVESTOR_REQUEST.png)
 
 ### 28. List of Staff and Advisors
 ![Staff and Advisors](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNION.png)
