@@ -118,7 +118,7 @@ Retrieve customer first name, last name, and email ID.
 ![Low Rental Customers](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/NON_LOYAL_CUSTOMERS.png)
 
 ### 22. Longest Films Sorted by Length and Rental Rate
-![Longest Films](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/longestfilms_sort.png)
+![Longest Films](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/RENTAL_DURATIONWISE_MOVIES.png)
 
 ### 23. Categorization of Movies by Length
 ![Movies Categorized by Length](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/SLICED_BY_RENTAL_RATE.png)
