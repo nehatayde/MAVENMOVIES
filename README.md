@@ -76,7 +76,7 @@ Retrieve customer first name, last name, and email ID.
 ![Rental Popularity](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/POPULARITY.png)
 
 ### 8. Top 10 Grossing Films
-![Revenue per Film](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REVENUE.png)
+![Revenue per Film](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/RENTALS_PER_MONTH.png)
 
 ### 9. Highest Spending Customer
 ![Most Spending Customer](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_SPENDING_CUSTOMER.png)
