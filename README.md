@@ -109,7 +109,7 @@ Retrieve customer first name, last name, and email ID.
 ![Rental Duration Count](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/RENTAL_DURATIONWISE_MOVIES.png)
 
 ### 19. Ratings, Movie Count, Length, and Rental Duration
-![Ratings and Rental Duration](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/COMPARE_WITH_RENTAL_DURATION.png)
+![Ratings and Rental Duration](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/COMPARE_LENGTH.png)
 
 ### 20. Film Count by Replacement Cost with Rental Rates
 ![Replacement Cost Analysis](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MIN_MAX_AVG.png)
