@@ -70,7 +70,7 @@ Retrieve customer first name, last name, and email ID.
 ![Rating per Store](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/TOTAL_FILMS.png)
 
 ### 6. List of Films by Name, Category, and Language
-![Film List](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TLC.png)
+![Film List](https://github.com/nehatayde/MAVENMOVIES/blob/main/code_output/CATEGORY_NAME.png)
 
 ### 7. Movie Rental Frequency
 ![Rental Popularity](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/popularity.png)
